@@ -1,4 +1,5 @@
 A subset of the ASCII code including numbers and capital letters (32-90). 8-bit ASCII code has 256 possible character codes.
+These are stored in the computer as a binary (1s & 0s) representation and (on '80s computers) used to be saved to audio tapes as patterns of 2 tones https://www.youtube.com/watch?v=ITfKILfsItA
 
 Binary	  Oct	Dec	Hex	Glyph
 ============================
