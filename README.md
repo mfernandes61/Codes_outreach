@@ -1,5 +1,5 @@
 # Codes_outreach
-An outreach activity centred around codes. An set of activities that combine Maths, Computing
+An outreach activity centred around codes. An set of activities that combine Maths, Computing and Biology
 
 1. Substitution codes - where letters are shifted n times or randomly swapped around. Can you guess a weakness of this approach that can be used to crack them? Why not create your own coded message and leave it on a whiteboard for others to try and crack? Can you crack other peoples messages on the whiteboard?   
 Also, anothe common type of code is a Book Cipher - In the Sherlock series, Holmes discovers that a popular book is being used as a code by Chinese gangsters https://getyarn.io/yarn-clip/91fe0e1e-9f00-42ec-ac00-8f614ba9ef09
