@@ -11,4 +11,13 @@ Try sending a (short) message in Morse code using our Morse key buzzer?
 Materials: Morse diagrams, morse key (Button switches, battery, buzzer/led& resistor)
 
 3. ASCII and binary representation of data. When you use a computer, the letters and numbers are frequently stored using the ASCII (American Standard Code for Information Interchange). Each character is represented by a code e.g. A is 65. These are converted and stored as a binary representation of that number and trasnmitted as a series of oneas and zeroes (often represented as two different tones.
+Challenge: Try writing your first name as binary, decimal or hexadecimal code.
+Materials: Video/audio of tones, ASCII chart, card name badges (for code names)?.
+
+4. DNA - bological code
+
+Posters (Taken from BBC & British Library web-sites)
+====================================================
+a. Life & achievements of Alan Turing
+b. Polish Codebreakers contributions to cracking Enigma code.
 
