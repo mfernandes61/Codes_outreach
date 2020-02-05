@@ -18,7 +18,10 @@ Materials: Video/audio of tones, ASCII chart, card name badges (for code names)?
 4. DNA - bological code
 The bases - triplets - resilience via redundancy in code of genes.   
 Genes code for protein - lots of roles iincluding gene regulation.   
-Mutations where wrong reading of cod e.g. DNA damaged & failed/flwed repair leads to diseases including Cancer.   
+Amino acid code - Challenge: Write your name as codons 
+Mutations where wrong reading of code e.g. DNA damaged & failed/flwed repair leads to diseases including Cancer.
+Materials: Pens/paper/badges, codon table
+
 
 Posters (Taken from BBC & British Library web-sites)
 ====================================================
